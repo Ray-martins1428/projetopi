@@ -63,7 +63,7 @@ class Produto:
 
     def fechar_conexao(self):
         print("Retornando ao mennu principal!")
-        """if self.connection and self.connection.is_connected():
-            self.cursor.close()
-            self.connection.close()
-            print("Conexão foi finalizada.")"""
+        # if self.connection and self.connection.is_connected():
+        #     self.cursor.close()
+        #     self.connection.close()
+        #     print("Conexão foi finalizada.")
